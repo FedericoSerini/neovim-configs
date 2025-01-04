@@ -1,6 +1,6 @@
 #!/bin/bash
 
-nvim_path="~/.config/nvim"
+nvim_path="$HOME/.config/nvim"
 
 echo "Installing fzf"
 brew install fzf
@@ -42,7 +42,7 @@ echo "Copying LazyVim extras plugins"
 cp ../lazyvim.json "$nvim_path/lazyvim.json"
 
 echo "Copying custom plugins"
-cp -r ../lua/config "$nvim_path/lua/config"
-cp -r ../lua/plugins "$nvim_path/lua/plugins"
+cp -r ../lua/config "$nvim_path/lua"
+cp -r ../lua/plugins "$nvim_path/lua"
 
 echo "Setup complete"
