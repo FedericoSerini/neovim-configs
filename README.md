@@ -15,6 +15,7 @@ This is my repo for Neovim configs.
 ## Plugins
 * [Kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) (A theme)
 * [Obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) (Obsidian integration in Neovim)
+* [Extras](https://github.com/FedericoSerini/neovim-configs/blob/main/lazyvim.json)
 
 ## Troubleshooting
 * If the .sh commands tell you something like <code>: not found: 2: file.sh:</code>,
