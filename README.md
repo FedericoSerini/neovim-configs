@@ -6,6 +6,7 @@ This is my repo for Neovim configs.
 * Windows
 * MacOS
 * Every Linux distro that uses apt
+* ArchLinux
   
 ## Requirements
 * Latest Neovim version (Make sure you installed Neovim within default folders)
